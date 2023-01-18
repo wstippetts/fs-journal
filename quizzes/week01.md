@@ -38,25 +38,26 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
+ selector, property and value.
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+I would use the <b> tag.
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+body
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul (unordered list), ol (ordered list), dl (discription list)
 ```
 
 **10.** Define the display `:flex property:`
