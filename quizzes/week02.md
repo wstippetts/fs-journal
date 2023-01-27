@@ -64,7 +64,7 @@ document object model
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-undefined, let, array, var, object, string, number, null
+undefined, let, var, string, number, null, bool, NaN
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
