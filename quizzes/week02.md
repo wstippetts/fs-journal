@@ -13,7 +13,12 @@
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+thank you google.
+S: Single Responsibility Principle.
+O: Open-Closed Principle.
+L: Liskov-Substitution Principle.
+I: Interface Segregation Principle.
+D: Dependency Inversion Principle.
 ```
 **4.** Given this array: 
 ```js
@@ -47,23 +52,24 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-
+loop position. I cant find any name for this specific location.
+i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+document object model
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-- 
+undefined, let, array, var, object, string, number, null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+ parameters are expectations by the code. arguments are active entities within the code.
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
