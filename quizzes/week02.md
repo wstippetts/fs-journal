@@ -52,7 +52,7 @@ for ( let i = 0; i < arr.length; _______ ) {
 ```
 <!-- enter you answer in the space below -->
 ```
-loop position. I cant find any name for this specific location.
+loop position? I cant find any name for this specific location.
 i++
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
