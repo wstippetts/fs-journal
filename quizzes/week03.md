@@ -14,9 +14,8 @@ let staff = {
   }
 let property = 'name'
 ```
-<!-- enter you answer in the space below -->
 ```
-
+staff.property
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
@@ -24,14 +23,12 @@ let property = 'name'
 
 ```
 **4.** What does the S stand for in the `SOLID` principles?
-<!-- enter you answer in the space below -->
 ```
-
+- single resposiblility pricipal.
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
-<!-- enter you answer in the space below -->
 ```
-
+class is like a template, and instance is an object or result created from that class.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
@@ -40,23 +37,19 @@ let property = 'name'
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
-<!-- enter you answer in the space below -->
 ```
-
+- orgonization.
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
-<!-- enter you answer in the space below -->
 ```
-
+- control the flow of logic
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
-<!-- enter you answer in the space below -->
 ```
-
+- business center. logic processing.
 ```
 **10.** What is the job of the `Model` in `MVC`?
-<!-- enter you answer in the space below -->
 ```
-
+- templates that construct objects.
 ```
