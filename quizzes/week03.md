@@ -1,9 +1,8 @@
 # Application Architecture, MVC Design Pattern
 
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
-<!-- enter you answer in the space below -->
 ```
-
+ - Encapsulation, inheritance, and polymorphism
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -18,9 +17,8 @@ let property = 'name'
 staff.property
 ```
 **3.** What is Encapsulation?
-<!-- enter you answer in the space below -->
 ```
-
+  - the packing of data and functions into one component
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 ```
@@ -31,9 +29,8 @@ staff.property
 class is like a template, and instance is an object or result created from that class.
 ```
 **6.** What is a `Proxy` object?
-<!-- enter you answer in the space below -->
 ```
-
+- an object created in place of an original object.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
