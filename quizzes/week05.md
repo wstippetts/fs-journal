@@ -1,14 +1,15 @@
 # Intro to Server side concerns with JavaScript
 
 **1.** What do the letters of the acronym `CRUD` stand for?
-<!-- enter you answer in the space below -->
 ```
-
+create, read, update, delete
 ```
 **2.** Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
-<!-- enter you answer in the space below -->
 ```
-
+-create:  httppost
+  -read:    httpget
+  -update:  httpput
+  -delete:  httpdelete
 ```
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
@@ -31,9 +32,9 @@
 import ______ from "_______"
 let Schema = ________.Schema;
 ```
-<!-- enter you answer in the space below -->
 ```
-
+import {appState} from "./appState"
+let Schema = appState.Schema;
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
