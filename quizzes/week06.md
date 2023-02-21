@@ -11,29 +11,25 @@
 
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
-<!-- enter you answer in the space below -->
 ```
-
+v-for
 ```
 **4.** What are the three tags that make up a Vue component?
-<!-- enter you answer in the space below -->
 ```
-
+template, styles, JS
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
-<!-- enter you answer in the space below -->
 ```
+    L: Liskov-Substitution Principle.
 
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
-<!-- enter you answer in the space below -->
 ```
-
+JS
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
-<!-- enter you answer in the space below -->
 ```
-
+appstate is our single source of truth. state references appstate.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
