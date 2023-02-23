@@ -1,14 +1,12 @@
 # Single Page Applications with Vue
 
 **1.** What is the entrypoint of an application?
-<!-- enter you answer in the space below -->
 ```
-
+mount(#app)
 ```
 **2.** What is the difference between a vue `component` and `page`?
-<!-- enter you answer in the space below -->
 ```
-
+page takes place of the controller componets abstract repetitive code.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 ```
@@ -32,14 +30,12 @@ JS
 appstate is our single source of truth. state references appstate.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
-<!-- enter you answer in the space below -->
 ```
-
+doing math / logic / data handeling
 ```
 **10.** Which file contains the root element of your Vue project?
-<!-- enter you answer in the space below -->
 ```
-
+main.js
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
@@ -47,7 +43,6 @@ appstate is our single source of truth. state references appstate.
 
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
-<!-- enter you answer in the space below -->
 ```
-
+reactive / computed
 ```
