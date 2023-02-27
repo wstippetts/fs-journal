@@ -38,9 +38,8 @@ doing math / logic / data handeling
 main.js
 ```
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
-<!-- enter you answer in the space below -->
 ```
-
+style, scoped
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 ```
